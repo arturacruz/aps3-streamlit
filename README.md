@@ -120,7 +120,7 @@ Faça o deploy do seu web service no Render e assegure que ele esteja se comunic
 ## Etapa 5: Interface do Usuário
 
 Crie um repositório separado para o desenvolvimento do Streamlit, deixe-o público e adicione o link aqui!
-Link do repositório da interface:
-Link de deploy do streamlit:
+Link do repositório da interface: https://github.com/arturacruz/aps3-streamlit  
+Link de deploy do streamlit: https://artur-marcelo-aps3.streamlit.app/  
 
 Desenvolva uma interface para o usuário para que ele consiga gerenciar os recursos do back-end. Desenvolvimento livre!
